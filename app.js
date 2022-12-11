@@ -71,6 +71,7 @@ modalCloseBtn.addEventListener('click', () => {
 })
 
 modalAddBtn.addEventListener("click", function (e) {
+  modalAdd.style.display ='none'
   let obj = {
     inpName: inpName.value,
     inpText: inpText.value,

@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "inpName": "zhanybekk0v",
+      "inpName": "bekbol",
       "inpText": "Аяулым (таково полное имя девушки) Шалкар родилась 29 января 1996 года в Актау, Казахстан. Отец Айи – бизнесмен, мать – домохозяйка. Женщина активно занималась  моделью!",
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT97HVGPbjLq5HlFhM-jmJeJvJ3l7-hwYeUIQxlwJJKLrE44FQttIjVGdoAn4MdXTwIegY&usqp=CAU",
       "id": 1
@@ -9,14 +9,14 @@
     {
       "inpName": "nurbol",
       "inpText": "Аяулым (таково полное имя девушки) Шалкар родилась 29 января 1996 года в Актау, Казахстан. Отец Айи – бизнесмен, мать – домохозяйка. Женщина активно занималась  моделью!",
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT97HVGPbjLq5HlFhM-jmJeJvJ3l7-hwYeUIQxlwJJKLrE44FQttIjVGdoAn4MdXTwIegY&usqp=CAU",
-      "id": 2
+      "img": "https://static.freeimages.com/images/home/filetypes/photo.png",
+      "id": 3
     },
     {
-      "inpName": "nurlanovich",
+      "inpName": "beka",
       "inpText": "Аяулым (таково полное имя девушки) Шалкар родилась 29 января 1996 года в Актау, Казахстан. Отец Айи – бизнесмен, мать – домохозяйка. Женщина активно занималась  моделью!",
       "img": "https://static.freeimages.com/images/home/filetypes/photo.png",
-      "id": 6
+      "id": 4
     }
   ]
 }
