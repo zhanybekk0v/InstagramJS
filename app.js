@@ -294,11 +294,11 @@ async function saveEdit(editedProduct, id) {
 
 
 inpSearch.addEventListener("input", () => { 
-  if (inpSearch.value.trim() === "") {
+  // if (inpSearch.value.trim() === "") {
     searchVal = inpSearch.value;
     render();
-    return;
-  }
+    // return;
+  // }
 });
 
 
